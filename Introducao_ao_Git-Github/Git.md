@@ -1,6 +1,8 @@
-# 					Git Primeiros Passos
+# 									Git Primeiros Passos
 
 ### Links Uteis 
+
+- [História do Git](https://blog.taller.net.br/git-parte-1-como-durgiu-a-ferramenta-de-controle-de-versao/)
 
 -  [Donwload Git Windows](https://git-scm.com/download/win)
 
